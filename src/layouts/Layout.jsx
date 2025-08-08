@@ -6,8 +6,8 @@ function Layout({ children }) {
       <header className={styles.header}>
         <h1>Book App</h1>
         <p>
-          Reference: <a href="https://botostart.ir">Botostart</a> | React.js
-          Full Course
+          Reference from: <a href="https://botostart.ir">Botostart</a> |
+          React.js Full Course
         </p>
       </header>
       {children}
